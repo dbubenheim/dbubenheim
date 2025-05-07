@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">Software Engineer from Germany</h3>
 
-- 🌱 I’m currently learning **Kotlin, Java, Micronaut, Angular**
+- 🌱 I’m currently learning **Kotlin, Java, Kubernetes, OIDC, Keycloak, Terraform**
 
 - 💬 Ask me about **Java, Kotlin, Spring**
 
-- 📫 How to reach me **daniel.bubenheim@gmail.com**
+- 📫 How to reach me **daniel [dot] bubenheim [at] gmail [dot] com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
