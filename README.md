@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">Software Engineer from Germany</h3>
 
-- 🌱 I’m currently learning **Kotlin, Java, Kubernetes, OIDC, Keycloak, Terraform**
+- 🌱 I’m currently working with **Kotlin, Kubernetes, Helm, Terraform, Spring, Testcontainers, Cypress, OIDC, Keycloak, Angular, Gitlab, Gradle**
 
 - 💬 Ask me about **Java, Kotlin, Spring**
 
